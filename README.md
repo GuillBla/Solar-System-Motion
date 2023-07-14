@@ -1,7 +1,5 @@
 # Planetary Motion Simulation
 
-[![Watch the video](images\thumbnail_demo.png)](demo.mp4)
-
 This is a Python simulation of planetary motion in the Solar System. The simulation uses the pygame library to create an interactive visualization where the user can observe the motion of the planets and interact with them.
 
 ## Features
@@ -14,6 +12,13 @@ This is a Python simulation of planetary motion in the Solar System. The simulat
 
 - Python 3.x
 - pygame library
+
+## Demo
+
+Click the image below to watch a demo video of the simulation:
+
+[![Watch the video](images/thumbnail_demo.png)](demo.mp4)
+
 
 ## Installation
 
