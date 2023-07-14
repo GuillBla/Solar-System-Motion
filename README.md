@@ -15,10 +15,7 @@ This is a Python simulation of planetary motion in the Solar System. The simulat
 
 ## Demo
 
-Click the image below to watch a demo video of the simulation:
-
-[![Watch the video](images/thumbnail_demo.png)](demo.mp4)
-
+![Demo](demo.gif)
 
 ## Installation
 
