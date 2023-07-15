@@ -22,11 +22,12 @@ This is a Python simulation of planetary motion in the Solar System. The simulat
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/planetary-motion-simulation.git
-
+   git clone https://github.com/GuillBla/Solar-System-Motion.git
+    ```
 2. Install the dependencies:
     ```bash
     pip install pygame
+    ```
 
 ## Usage
 
@@ -34,7 +35,7 @@ This is a Python simulation of planetary motion in the Solar System. The simulat
 
     ```bash
     python main.py
-
+    ```
 2. Customization:
 
     You can modify the planetary parameters (mass, radius, distance, speed) in the main.py file to create custom simulations.To use different planet images, replace the existing image files in the project directory and update the image paths in the Planet class.
